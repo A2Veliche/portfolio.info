@@ -1,2 +1,2 @@
-# portfolio.info
-A personal website containing contact information, general info, and many cool projects.
+# Portfolio.info
+This is a discontinued link. For the actual website, see https://A2Veliche.github.io.
